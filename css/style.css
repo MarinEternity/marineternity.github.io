@@ -97,7 +97,6 @@ background: rgba(0,0,128,0.2);
 .header a{background: none;}
 
 a:link { color:#e0e0e0; }
-a:visited { color: #000000; }
 a:hover { color:#0000ff; }
 a:active { color: #0000ff; }
 
